@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">PinBook</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="cameras_array">
+        <item>Ondu 135</item>
+        <item>Ondu 6x6</item>
+        <item>Ondu 6x9</item>
+        <item>Ondu 6x12</item>
+        <item>Ondu 4x5</item>
+        <item>Ondu 8x10</item>
+        <item>Zero Image 2000</item>
+        <item>Zero Image 2000 Mk II</item>
+        <item>RealitySoSubtle 6x6</item>
+    </string-array>
+
+    <string-array name="films_array">
+        <item>ADOX	HR-50</item>
+        <item>AGFA	Copex Rapid</item>
+        <item>Cinestill	50D</item>
+        <item>Cinestill	800T</item>
+        <item>Film Washi	\'W\'</item>
+        <item>Film Washi	\'V\'</item>
+        <item>Film Washi	\'P\'</item>
+        <item>Foma	FOMAPAN 100 \'Classic\'</item>
+        <item>Foma	FOMAPAN 200 \'Creative\'</item>
+        <item>Foma	FOMAPAN 400 \'Action\'</item>
+        <item>Foma	RETRO PAN 320 \'Soft\'</item>
+        <item>FUJIFILM	Neopan ACROS 100</item>
+        <item>FUJIFILM	Neopan 400CN</item>
+        <item>FUJIFILM	Fujicolor Pro 160NS</item>
+        <item>FUJIFILM	Fujicolor Pro 400H</item>
+        <item>FUJIFILM	FujiChrome Velvia 50</item>
+        <item>FUJIFILM	FujiChrome Velvia 100</item>
+        <item>FUJIFILM	FujiChrome Provia 100F</item>
+        <item>HOLGA	400</item>
+        <item>ILFORD	FP4 Plus</item>
+        <item>ILFORD	HP5 Plus</item>
+        <item>ILFORD	DELTA 100</item>
+        <item>ILFORD	DELTA 400</item>
+        <item>ILFORD	DELTA 3200</item>
+        <item>ILFORD	SFX 200</item>
+        <item>ILFORD	XP2 Super</item>
+        <item>Kodak	Tri-X</item>
+        <item>Kodak	T-MAX 100</item>
+        <item>Kodak	T-MAX 400</item>
+        <item>Kodak	Ektar 100</item>
+        <item>Kodak	Portra 160</item>
+        <item>Kodak	Portra 400</item>
+        <item>Kodak	Portra 800</item>
+        <item>Lomography	Earl Grey</item>
+        <item>Lomography	Lady Grey</item>
+        <item>Lomography	Color Negative 100</item>
+        <item>Lomography	Color Negative 400</item>
+        <item>Lomography	Color Negative 800</item>
+        <item>Lomography	Redscale XR 50-200</item>
+        <item>Lomography	LomoChrome Purple XR</item>
+        <item>Lomography	XPro 200</item>
+        <item>Rollei	RPX 25</item>
+        <item>Rollei	RPX 100</item>
+        <item>Rollei	RPX 400</item>
+        <item>Rollei	ATP1.1</item>
+        <item>Rollei	Ortho Plus</item>
+        <item>Rollei	Retro 80S</item>
+        <item>Rollei	SuperPan 200</item>
+        <item>Rollei	Retro 400S</item>
+        <item>Rollei	Infrared 400</item>
+        <item>Rollei	Blackbird</item>
+        <item>Shanghai	GP3</item>
+        <item>SPUR	DSX</item>
+        <item>SPUR	UR</item>
+        <item>Svema / Astrum	ФН-64 (FN-64)</item>
+        <item>Svema / Astrum	Фoto-100 (Foto-100)</item>
+        <item>Ultrafine	Xtreme 100</item>
+        <item>Ultrafine	Xtreme 400</item>
+        <item></item>
+
+
+
+
+
+    </string-array>
+</resources>
